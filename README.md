@@ -2,8 +2,11 @@
 
 A collection of bollywood movies in json file format
 
-### Contributing
- If you want to work on any of the issues tagged Hacktoberfest, please, say so in the issue and I'll make sure to merge the PRs of those who came first.
+Inspired by [JSON Movie Collection](https://github.com/jsonmc/jsonmc/blob/master/readme.markdown)
+
+### Contributin
+
+Please read [this](./contributing.md)
 
 If you're looking for issues to contribute, check those that does not have a "taken" label. 
 
@@ -25,6 +28,8 @@ Storyline	| Brief description of the movie
 Poster | Link to img in posters folder same name as movie title 
 
 Example movie file
+
+````
 {
     "name": "Padmaavat",
     "year": 2018,
@@ -54,3 +59,4 @@ Example movie file
     ], 
     "poster": "./posters/padmaavat.jpeg"
   }
+  ```
