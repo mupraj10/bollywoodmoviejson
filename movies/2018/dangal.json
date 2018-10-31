@@ -1,0 +1,32 @@
+{
+    "name": "Dangal",
+    "year": 2016,
+    "runtime": 161,
+    "categories": [
+      "action", 
+      "biography",
+	  "drama"
+    ],
+    "release-date": "2016-12-21",
+    "director": " Nitesh Tiwari",
+    "writer": [
+      "Piyush Gupta",
+      "Shreyas Jain"
+    ],
+    "actors": [
+      "Aamir Khan",
+      "Sakshi Tanwar",
+      "Fatima Sana Shaikh "
+    ],
+    "storyline": "Former wrestler Mahavir Singh Phogat and his two wrestler daughters struggle towards glory at the Commonwealth Games in the face of societal oppression.",
+    "songs": [
+        "Haanikaarak Bapu",
+        "Dhaakad",
+        "Dangal",
+        "Naina",
+        "Idiot Banna",
+        "Gilehriyaan"
+    ],
+    "poster": "../posters/dangal.jpeg"
+  }
+  
