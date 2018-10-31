@@ -4,11 +4,16 @@ A collection of bollywood movies in json file format
 
 Inspired by [JSON Movie Collection](https://github.com/jsonmc/jsonmc/blob/master/readme.markdown)
 
-### Contributin
+for [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
+
+``` I know I got a late start but I will take submissions and advice forever ``` 
+
+
+### Contribution
 
 Please read [this](./contributing.md)
 
-If you're looking for issues to contribute, check those that does not have a "taken" label. 
+Please search through the PRs to make sure you are not adding a duplicate movie.
 
 Always reference your pull requests with the respective issue by adding Fixes #100 on your commit message, PR title or PR description. A template is available when submitting your PR.
 
@@ -17,7 +22,7 @@ Always reference your pull requests with the respective issue by adding Fixes #1
 Movie attribute | 	Details
 ----------------|--------------
 Release date	| YYYY-MM-DD release date
-Categories	| Action, adventure, comedy, animation, family, fantasy, sci-fi
+Categories	| action, epic, comedy, drama, family, romance, thriller,
 Director |	Directors of the movie
 Writers	| Screenplay and story writers
 Actors	| Main casts of the movie
@@ -35,7 +40,8 @@ Example movie file
     "year": 2018,
     "runtime": 163,
     "categories": [
-      "period drama"
+      "epic", 
+      "romance"
     ],
     "release-date": "2018-01-25",
     "director": "Sanjay Leela Bhansali",
