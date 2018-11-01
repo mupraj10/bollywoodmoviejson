@@ -1,0 +1,23 @@
+{
+    "name": "Satyameva Jayate",
+    "year": 2018,
+    "runtime": 140,
+    "categories": [
+      "action", 
+      "drama",
+      "thriller"
+    ],
+    "release-date": "2018-08-15",
+    "director": "Milap Zaveri",
+    "writer": [
+      "Milap Zaveri"
+    ],
+    "actors": [
+      "John Abraham",
+      "Aisha Sharma",
+      "Manoj Bajpayee"
+    ],
+    "storyline": "DCP Shivansh has been tasked to catch Vir, the man behind police killings in the city. Both are eventually against the same enemy but divided by a fine line, the law.",
+    "songs": [],
+    "poster": "../posters/satyameva.jpg"
+  }
