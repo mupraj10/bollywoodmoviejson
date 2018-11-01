@@ -1,0 +1,23 @@
+{
+    "name": "Gold",
+    "year": 2018,
+    "runtime": 163,
+    "categories": [
+      "drama", 
+      "history",
+      "sport"
+    ],
+    "release-date": "2018-01-25",
+    "director": "Reema Kagti",
+    "writer": [
+      "Reema Kagti",
+      "Rajesh Devraj"
+    ],
+    "actors": [
+      "Akshay Kumar",
+      "Kunal Kapoor",
+      "Mouni Roy"
+    ],
+    "storyline": "Set in 1948, the historic story of India's first Olympic medal post their independence.",
+    "poster": "./posters/gold.jpeg"
+  }
