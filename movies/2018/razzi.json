@@ -1,0 +1,30 @@
+{
+  "name": "Razzi",
+  "year": 2018,
+  "runtime": 140,
+  "categories": [
+    "action",
+    "drama",
+    "thriller"
+  ],
+  "release-date": "2018-05-11",
+  "director": "Meghna Gulzar",
+  "writer": [
+    "Harinder S. Sikka",
+    "Meghna Gulzar",
+    "Bhavani Iyer"
+  ],
+  "actors": [
+    "Alia Bhatt",
+    "Vicky Kaushal",
+    "Rajit Kapoor"
+  ],
+  "storyline": "Loosely based on the epic poem Padmavat by Malik Muhammad Jayasi",
+  "songs": [
+    "Ae Watan",
+    "Dilbaro",
+    "Raazi",
+    "Ae Watan (Female)"
+  ],
+  "poster": "../posters/razzi.jpg"
+}
