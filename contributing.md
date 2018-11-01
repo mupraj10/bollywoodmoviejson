@@ -1,11 +1,13 @@
 # Contributing to Bollywood Movie JSON
 
 Follow the steps below: 
- - Clone the repo
+ - Fork and clone the repo
  - Create a branch with the `adds-movie-name`
- - Add a json file of the movie with the details below to the appropriate year folder if there isn't one *create* it please
+ - Add a json file of the movie with the details below to the *appropriate year folder* if there isn't one *create* it please
  - Add a img file of the movie poster to the `posters` folder using the specifications below
- - Submit PR
+ - Submit PR!
+
+ Thank you for helping out! :)
 
 ### A movie has the following details
 
