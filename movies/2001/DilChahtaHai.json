@@ -1,0 +1,28 @@
+{
+    "name": "Dil Chahta Hai",
+    "year": 2001,
+    "runtime": 184,
+    "categories": [
+      "comedy",
+      "drama"
+    ],
+    "release-date": "2001-08-10",
+    "director": "Farhan Akhtar",
+    "writer": [
+      "Farhan Akhtar",
+      "Kassim Jagmagia"
+    ],
+    "actors": [
+      "Aamir Khan",
+      "Saif Ali Khan",
+      "Akshaye Khanna",
+      "Preity Zinta",
+      "Sonali Kulkarni",
+      "Dimple Kapadia"
+    ],
+    "storyline": "Set in modern-day urban Mumbai and Sydney, the film focuses on a major period of transition in the lives of three young friends",
+    "songs": [
+        "By Shankar–Ehsaan–Loy"
+    ],
+    "poster": "../posters/DilChahtaHai.jpg"
+  }
