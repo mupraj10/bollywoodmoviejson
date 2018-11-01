@@ -1,0 +1,32 @@
+{
+    "name": "Taare Zameen Par",
+    "year": 2007,
+    "runtime": 165,
+    "categories": [
+      "drama", 
+      "family"
+    ],
+    "release-date": "2007-12-21",
+    "director": "Aamir Khan",
+    "writer": [
+      "Amole Gupte",
+    ],
+    "actors": [
+      "Darsheel Safary",
+      "Aamir Khan",
+      "Tisca Chopra"
+    ],
+    "storyline": "An eight-year-old boy is thought to be a lazy trouble-maker, until the new art teacher has the patience and compassion to discover the real problem behind his struggles in school.",
+    "songs": [
+        "Taare Zameen Par",
+        "Kholo Kholo",
+        "Bum Bum Bole",
+        "Jame Raho",
+        "Bheja Kum",
+        "Maa", 
+        "Mera Jahan", 
+        "Ishan's Theme"
+    ], 
+    "poster": "./posters/taarezameenpar.jpg"
+  }
+  ```
