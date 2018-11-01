@@ -4,8 +4,8 @@ Follow the steps below:
  - Fork and clone the repo
  - Create a branch with the `adds-movie-name`
  - Add a json file of the movie with the details below to the *appropriate year folder* if there isn't one *create* it please
- - Add a img file of the movie poster to the `posters` folder using the specifications below
- - Submit PR!
+ - Add a jpeg file of the movie poster to the `posters` folder using the specifications below
+ - Submit PR - if case you want to know how check out this cool [doc](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) 
 
  Thank you for helping out! :)
 
@@ -76,6 +76,4 @@ Array of strings. Only the sounds on the offical soundtrack
 Add the official poster as a jpeg to the posters folder and link it here
 
 
-Credits to [JSON Movie Collection](https://github.com/jsonmc/jsonmc/blob/master/readme.markdown)
-
-for helping with this contributing guide. 
+Credits to [JSON Movie Collection](https://github.com/jsonmc/jsonmc/blob/master/readme.markdown) for helping with this contributing guide. 
