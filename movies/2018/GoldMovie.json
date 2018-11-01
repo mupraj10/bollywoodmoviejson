@@ -1,0 +1,29 @@
+{
+  "name": "Gold",
+  "year": 2018,
+  "runtime": 153,
+  "categories": [
+    "sports", 
+    "drama"
+  ],
+  "release-date": "2018-08-15",
+  "director": "Reema Kagti",
+  "writer": "Javed Akhtar",
+  "actors": [
+    "Akshay Kumar"
+    "Mouni Roy"
+    "Kunal Kapoor"
+    "Amit Sadh"
+    "Vineet Kumar Singh"
+    "Sunny Kaushal"
+  ],
+  "storyline": "is a 2018 Indian historical sports-drama film based upon the national hockey team's title at the 1948 Summer Olympics",
+  "songs": [
+    "Naino Ne Baandhi",
+    "Chad Gayi Hai",
+    "Ghar Layenge Gold",
+    "Monobina",
+    "Bolte Parini"
+  ], 
+  "poster": "./posters/goldPoster.jpeg"
+}
