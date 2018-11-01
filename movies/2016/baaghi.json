@@ -1,0 +1,28 @@
+{
+  "name": "Baaghi",
+  "year": 2016,
+  "runtime": 138,
+  "categories": [
+    "action", 
+    "thriller"
+  ],
+  "release-date": "2016-04-29",
+  "director": "Sabbir Khan",
+  "writer": "Sanjeev Datta[Ali Khan Bettiah]",
+  "actors": [
+    "Tiger Shroff",
+    "Shraddha Kapoor",
+    "Sunil Grover",
+    "Sudheer Babu"
+  ],
+  "storyline": "A martial arts student seeks revenge after the murder of his master.",
+  "songs": [
+      "Agar Tu Hota",
+      "Cham Cham",
+      "Girl I Need You",
+      "Let's Talk About Love",
+      "Sab Tera",
+      "Get Ready To Fight"
+  ], 
+  "poster": "./posters/baaghi.jpg"
+}

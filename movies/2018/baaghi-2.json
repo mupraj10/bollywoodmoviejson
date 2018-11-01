@@ -1,0 +1,33 @@
+{
+  "name": "Baaghi 2",
+  "year": 2018,
+  "runtime": 163,
+  "categories": [
+    "action", 
+    "thriller"
+  ],
+  "release-date": "2018-03-30",
+  "director": "Ahmed Khan",
+  "writer": [
+    "Hussain Dalal",
+    "Abbas Hirapurwala",
+    "Jojo Khan",
+    "Niraj Kumar Mishra",
+    "Sajid Nadiadwala"
+  ],
+  "actors": [
+    "Tiger Shroff",
+    "Disha Patani",
+    "Manoj Bajpayee"
+  ],
+  "storyline": "Loosely based on the epic poem Padmavat by Malik Muhammad Jayasi",
+  "songs": [
+      "Mundiyan",
+      "Ek Do Teen",
+      "O Saathi",
+      "Lo Safar",
+      "Soniye Dil Nayi",
+      "Get Ready To Fight Again"
+  ], 
+  "poster": "./posters/baaghi-2.jpg"
+}
