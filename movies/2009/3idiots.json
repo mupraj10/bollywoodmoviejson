@@ -1,0 +1,35 @@
+{
+    "name": "3 Idiots",
+    "year": 2009,
+    "runtime": 150.6,
+    "categories": [
+      "comedy", 
+      "drama"
+    ],
+    "release-date": "2009-12-25",
+    "director": "Rajkumar Hirani",
+    "writer": [
+      "Abhijat Joshi",
+      "Rajkumar Hirani",
+      "Vidhu Vinod Chopra"
+    ],
+    "actors": [
+      "Aamir Khan"
+      "R. Madhavan"
+      "Sharman Joshi"
+      "Kareena Kapoor"
+      "Boman Irani"
+      "Omi Vaidya"
+    ],
+    "storyline": "A coming of age comedy/drama about three students at an Indian engineering school.",
+    "songs": [
+      "Aal Izz Well",
+      "Zoobi Doobi",
+      "Behti Hawa Sa Tha Woh",
+      "Give Me Some Sunshine",
+      "Jaane Nahin Denge Tujhe",
+      "Zoobi Doobi(remix)",
+      "Aal Izz Well(remix)"
+    ],
+    "poster": "../../posters/3idiots.jpg"
+  }
