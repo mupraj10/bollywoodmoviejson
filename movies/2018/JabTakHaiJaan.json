@@ -1,0 +1,26 @@
+{
+    "name": "Jab Tak Hai Jaan",
+    "year": 2012,
+    "runtime": 176,
+    "categories": [
+      "drama", 
+      "romance",
+      "Family"
+    ],
+    "release-date": "2012-11-13",
+    "director": "Yash Chopra",
+    "writer": [
+      "Aditya Chopra",
+      "Devika Bhagat"
+    ],
+    "actors": [
+      "Shah Rukh Khan",
+      "Katrina Kaif",
+      " Anushka Sharma"
+    ],
+    "storyline": "A woman is made to realize that her prayers and sacrifice to save her boyfriend's life may have led him to a fate worse than death.",
+    "songs": [
+        "A. R. Rahman"
+    ],
+    "poster": "../posters/JabTakHaiJaan.jpg"
+  }
