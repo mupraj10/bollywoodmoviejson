@@ -1,0 +1,33 @@
+{
+  "name": "Hum Tum",
+  "year": 2004,
+  "runtime": 143,
+  "categories": [
+    "comedy", 
+    "romance"
+  ],
+  "release-date": "2004-05-28",
+  "director": "Kunal Kohli",
+  "writer": [
+    "Siddharth Anand",
+    "Kunal Kohli"
+  ],
+  "actors": [
+    "Saif Ali Khan",
+    "Rani Mukerji",
+    "Kirron Kher",
+    "Rati Agnihotri",
+    "Rishi Kapoor"
+  ],
+  "storyline": "A novel look at the eternal battle of the sexes and the trials and tribulations of Karan and Rhea and their attempts to understand each other.",
+  "songs": [
+      "Ladki Kyon",
+      "Chak De",
+      "Hum Tum",
+      "Gore Gore",
+      "Yaara Yaara",
+      "Hum Tum (Instrumental)",
+      "U'n'I (Mere Dil Vich Hum Tum)"
+  ], 
+  "poster": "./posters/tum-hum.jpg"
+}
