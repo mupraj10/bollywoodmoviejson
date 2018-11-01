@@ -7,14 +7,28 @@ Follow the steps below:
  - Add a img file of the movie poster to the `posters` folder using the specifications below
  - Submit PR
 
+### A movie has the following details
+
+Movie attribute | 	Details
+----------------|--------------
+Release date	| YYYY-MM-DD release date
+Categories	| action, epic, comedy, drama, family, romance, thriller,
+Director |	Directors of the movie
+Writers	| Screenplay and story writers
+Actors	| Main casts of the movie
+Year	| Movie released year
+Runtime	| Runtime in mins
+Songs  | Songs found in the soundtrack of the film 
+Storyline	| Brief description of the movie
+Poster | Link to img in posters folder same name as movie title 
+
+[File Example](./example.md)
 
 All files are valid json files: every key should be double-quoted.
 
 The JSON output should be the default "pretty" json output provided by node, with two spaces indent.
 
 When in doubt, the output should match the `JSON.stringify(data, null, 2)` function output. `data` being the contents of the json file.
-
-
 
 ## File Names
 
