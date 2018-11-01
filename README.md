@@ -1,4 +1,4 @@
-### Bollywood JSON Movie Collection
+# Bollywood JSON Movie Collection
 
 ![Alt Text](https://media.giphy.com/media/xT1R9CN4sBynmMsFKo/giphy.gif)
 
@@ -15,7 +15,7 @@ for [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 
 ### Contribution
 
-Please read [this](./contributing.md)
+#### *Please read [this](./contributing.md)*
 
 Please search through the PRs to make sure you are not adding a duplicate movie.
 
@@ -38,7 +38,7 @@ Poster | Link to img in posters folder same name as movie title
 
 Example movie file
 
-````
+```
 {
     "name": "Padmaavat",
     "year": 2018,
