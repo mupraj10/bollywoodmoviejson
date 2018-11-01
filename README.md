@@ -1,5 +1,9 @@
 ### Bollywood JSON Movie Collection
 
+![Alt Text](https://media.giphy.com/media/xT1R9CN4sBynmMsFKo/giphy.gif)
+
+
+
 A collection of bollywood movies in json file format
 
 Inspired by [JSON Movie Collection](https://github.com/jsonmc/jsonmc/blob/master/readme.markdown)

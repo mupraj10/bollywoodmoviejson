@@ -1,0 +1,26 @@
+{
+    "name": "3 Idiots",
+    "year": 2009,
+    "runtime": 150.6,
+    "categories": [
+      "comedy", 
+      "drama"
+    ],
+    "release-date": "2009-12-25",
+    "director": "Rajkumar Hirani",
+    "writer": [
+      "	Rajkumar Hirani",
+      "Abhijat Joshi"
+    ],
+    "actors": [
+      "Aamir Khan",
+      "R. Madhavan",
+      "Sharman Joshi",
+      "Kareena Kapoor"
+    ],
+    "storyline": "Adventures of three friends",
+    "songs": [
+        "By Shantanu Moitra"
+    ],
+    "poster": "../posters/3_idiots_poster.jpg"
+  }
