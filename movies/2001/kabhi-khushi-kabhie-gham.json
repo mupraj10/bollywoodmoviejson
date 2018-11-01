@@ -1,0 +1,35 @@
+{
+    "name": "Kabhi Khushi Kabhie Gham",
+    "year": 2001,
+    "runtime": 210,
+    "categories": [
+      "drama", 
+      "romance"
+    ],
+    "release-date": "2001-12-14",
+    "director": "Karan Johar",
+    "writer": [
+      "Karan Johar",
+      "Sheena Parikh"
+    ],
+    "actors": [
+      "Shah Rukh Khan",
+      "Kajol",
+      "Amitabh Bachchan"
+    ],
+    "storyline": "Tells the story of a wealthy Indian family whose adoptive son marries a girl belonging to a lower socio-economic group.",
+    "songs": [
+        "Kabhi Khushi Kabhie Gham",
+        "Bole Chudiyan",
+        "You Are My Soniya",
+        "Suraj Hua Maddham",
+        "Say Shava Shava",
+        "Yeh Ladka Hai Allah",
+		"Kabhi Khushi Kabhie Gham - Sad (Part 1)",
+		"Deewana Hai Dekho",
+		"Kabhi Khushi Kabhie Gham - Sad (Part 2)",
+		"Soul of K3G",
+		"Vande Mataram"
+    ], 
+    "poster": "../posters/kabhi-khushi-kabhie-gham.jpeg"
+  }
