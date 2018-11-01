@@ -1,0 +1,36 @@
+{
+  "name": "Gangs of Wasseypur",
+  "year": 2012,
+  "runtime": 321,
+  "categories": [
+    "action",
+    "comedy",
+    "crime"
+  ],
+  "release-date": "2012-08-02",
+  "director": "Anurag Kashyap",
+  "writer": [
+    "Akhilesh Jaiswal",
+    "Anurag Kashyap",
+    "Sachin K. Ladia",
+    "Zeishan Quadri"
+  ],
+  "actors": [
+    "Manoj Bajpayee",
+    "Richa Chadha",
+    "Nawazuddin Siddiqui",
+    "Tigmanshu Dhulia",
+    "Jameel Khan",
+    "Piyush Mishra",
+    "Jaideep Ahlawat",
+    "Huma Qureshi",
+    "Zeishan Quadri",
+    "Vipin Sharma",
+    "Satyakam Anand",
+    "Aditya Kumar",
+    "Rajkummar Rao",
+    "Vineet Kumar Singh"
+  ],
+  "storyline": "A clash between Sultan and Shahid Khan leads to the expulsion of Khan from Wasseypur, and ignites a deadly blood feud spanning three generations.",
+  "poster": "../posters/gangs-of-wasseypur.jpg"
+}
