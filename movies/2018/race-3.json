@@ -1,0 +1,34 @@
+{
+  "name": "Race 3",
+  "year": 2018,
+  "runtime": 159,
+  "categories": [
+    "action",
+    "thriller"
+  ],
+  "release-date": "2018-06-15",
+  "director": " Remo D'Souza",
+  "writer": [
+    "Shiraz Ahmed",
+    "Kiran Kotrial"
+  ],
+  "actors": [
+    "Anil Kapoor",
+    "Salman Khan",
+    "Bobby Deol"
+  ],
+  "storyline": "Relationships and loyalties of a criminal family planning its next big heist are tested when some shocking revelations strike them.",
+  "songs": [
+    "Heeriye",
+    "Selfish",
+    "Allah Duhai Hai",
+    "Party Chale On",
+    "I Found Love",
+    "Ek Galti",
+    "Saansain Hui Dhuan Dhuan",
+    "Selfish (Solo)" ,
+    "Selfish (Unplugged)",
+    "Race 3 Mashup"
+  ],
+  "poster": "../posters/race-3.jpg"
+}
