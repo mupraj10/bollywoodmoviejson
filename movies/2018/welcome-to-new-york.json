@@ -1,0 +1,32 @@
+{
+  "name": "Welcome to New York",
+  "year": 2018,
+  "runtime": 117,
+  "categories": [
+    "comedy", 
+    "drama"
+  ],
+  "release-date": "2018-02-23",
+  "director": "Chakri Toleti",
+  "writer": "Dheeraj Rattan",
+  "actors": [
+	"Diljit Dosanjh",
+	"Sonakshi Sinha",
+	"Karan Johar",
+	"Riteish Deshmukh",
+	"Lara Dutta",
+	"Boman Irani" ,
+	"Rana Daggubati",
+	"Sushant Singh Rajput",
+	"Aditya Roy Kapur"
+  ],
+  "storyline": "Teji, a sloppy recovery agent who dreams of being an actor, and Jeenal Patel , a fashion designer, become part of a big Bollywood event in New York - and chaos ensues.",
+  "songs": [
+    "Ishtehaar",
+    "Nain Phisal Gaye",
+    "Pant Mein Gun",
+    "Meher Hai Rab Di",
+    "Smiley Song"
+  ], 
+  "poster": "./posters/Welcome_to_New_York.jpeg"
+} 
