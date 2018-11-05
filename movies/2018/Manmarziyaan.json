@@ -1,0 +1,40 @@
+{
+"name": "Manmarziyann",
+"year": 2018,
+"runtime": 157,
+"categories": [
+  "romance",
+  "drama"
+],
+"release-date": "2018-09-14",
+"director":  "Anurag Kashyap",
+"writer": [
+  "Kanika Dhillon"
+],
+"actors": [
+  "Abhishek Bachchan",
+  "Tapsee Pannu",
+  "Vicky Kaushal",
+  "Abdul Quadir Amin",
+  "Saurabh Sachdeva",
+  "Jasmin Bajwa"
+],
+"storyline": "A love triangle between a spirited young woman, her outgoing boyfriend and a fiance who is husband material.",
+"songs": [
+  "F For Fyaar",
+  "Daryaa",
+  "Grey Walaa Shade",
+  "DhayaanChand",
+  "Chonch Ladhiyaan",
+  "Hallaa",
+  "Sacchi Mohabbat",
+  "Jaisi Teri Marzi",
+  "Bijlee Giregi",
+  "Kundali",
+  "Daryaa-Unplugged",
+  "Jala Di",
+  "Fyaar Pe Duniya",
+  "Sherni"
+],
+ "poster": "./posters/Manmarziyaan.jpg"
+}
