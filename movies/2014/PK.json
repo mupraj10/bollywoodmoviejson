@@ -1,0 +1,34 @@
+{
+  "name": "PK",
+  "year": 2014,
+  "runtime": 150,
+  "categories": [
+    "comedy",
+    "Drama",
+    "fantasy"
+  ],
+  "release-date": "2014-12-19",
+  "director": "Rajkumar Hirani",
+  "writer": [
+    "Rajkumar Hirani",
+    "Abhijat Joshi"
+  ],
+  "actors": [
+    "Aamir Khan",
+    "Anushka Sharma",
+    "Sanjay Dutt",
+    "Sushant Singh Rajput",
+    "Boman Irani",
+    "Saurabh Shukla"
+  ],
+  "storyline": "A stranger in the city asks questions no one has asked before. Known only by his initials, the man's innocent questions and childlike curiosity take him on a journey of love, laughter and letting go.",
+  "songs": [
+    "Tharki Chokro",
+    "Love Is a Waste of Time",
+    "Nanga Punga Dost",
+    "Chaar Kadam",
+    "Bhagwan Hai Kahan Re Tu",
+    "Dil Darbadar"
+  ],
+  "poster": "../posters/PK.jpg"
+}
