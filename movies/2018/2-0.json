@@ -1,0 +1,37 @@
+{
+    "name": "2.0",
+    "year": 2018,
+    "runtime": 120,
+    "categories": [
+        "Action" , "Sci-Fi" , "Thriller" 
+    ],
+    "release-date": "2018-11-29",
+    "director": " S. Shankar",
+    "writer": [
+
+        "S. Shankar"	
+    
+    ],
+    "actors": [
+        "Rajinikanth",
+        "Akshay Kumar",		
+        "Amy Jackson",	
+        "Sudhanshu Pandey", 
+        "Adil Hussain",		
+        "Kalabhavan Shajohn",	
+        "Riyaz Khan",	
+        "Kaizaad Kotwal",
+        "Mayur Bansiwal",     
+        "Maya S. Krishnan"
+       ],
+    "storyline": "After facing a threat that is beyond the current understanding of science, the Government seeks the help of scientists. Dr. Vaseegaran suggests to assemble Chitti to fight against it.",
+    "songs": [
+        "Endhira Logathu Sundariye (Tamil)",
+        "Rajali (Tamil)", 
+        "Mechanical Sundariye (Hindi)",
+         "Rakshassi (Hindi)",
+        "Yanthara Lokapu Sundarive (Telugu)",
+        "Randali (Telugu)"
+    ], 
+    "poster": "./posters/2-0.jpg"
+  }
