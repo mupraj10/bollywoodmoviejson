@@ -1,0 +1,39 @@
+{
+    "name": "Gulaal",
+    "year": 2009,
+    "runtime": 140,
+    "categories": [
+      "crime", 
+      "drama",
+      "thriller"
+    ],
+    "release-date": "2009-03-13",
+    "director": "Anurag Kashyap",
+    "writer": [
+      "Raj Singh Chaudhary",
+      "Anurag Kashyap"
+    ],
+    "actors": [
+      "Kay Kay Menon",
+      "Raj Singh Chaudhary",
+      "Jesse Randhawa",
+      "Deepak Dobriyal",
+      "Ayesha Mohan",
+      "Mahie Gill",
+      "Piyush Mishra",
+      "Abhimanyu Singh",
+      "Aditya Srivastava"
+    ],
+    "storyline": "A law student witnesses deception, homicide, and crime after being elected as General Secretary of his college.",
+    "songs": [
+        "Ranaji",
+        "Yaara Maula",
+        "Aarambh",
+        "Aisi Sazaa",
+        "Sheher",
+        "Beedo",
+        "Duniya",
+        "Raat Ke Musafir"
+    ], 
+    "poster": "./posters/gulaal.jpg"
+  }
