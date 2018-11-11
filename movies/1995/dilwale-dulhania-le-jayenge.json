@@ -1,0 +1,37 @@
+{
+    "name": "Dilwale Dulhania Le Jayenge",
+    "year": 1995,
+    "runtime": 190,
+    "categories": [
+      "comedy",
+      "drama",
+      "musical"
+    ],
+    "release-date": "1995-08-19",
+    "director": "Aditya Chopra",
+    "writer": "Aditya Chopra",
+    "actors": [
+      "Shah Rukh Khan",
+      "Kajol",
+      "Amrish Puri",
+      "Farida Jalal",
+      "Anupam Kher",
+      "Parmeet Sethi",
+      "Mandira Bedi",
+      "Satish Shah",
+      "Himani Shivpuri",
+      "Pooja Ruparel",
+      "Achala Sachdev"
+    ],
+    "storyline": "Raj and Simran meet on a trip to Europe. After some initial misadventures, they fall in love. The battle begins to win over two traditional families.",
+    "songs": [
+        "Tujhe Dekha To",
+        "Ruk Ja O Dil Deewane",
+        "Mehndi Laga Ke Rakhna",
+        "Mere Khwabo Mein",
+        "Zara Sa Jhoom Loon Main",
+        "Ghar Aaja Pardesi",
+        "Ho Gaya Hai Tujhko To Pyaar Sajna"
+    ],
+    "poster": "../posters/dilwale-dulhania-le-jayenge.jpg"
+ }
