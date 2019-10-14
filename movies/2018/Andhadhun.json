@@ -1,0 +1,23 @@
+{
+    "name": "Andhadhun",
+    "year": 2018,
+    "runtime": 139,
+    "categories": [
+      "mystery", 
+      "thriller",
+      "comedy"
+    ],
+    "release-date": "2018-10-05",
+    "director": "Sriram Raghavan",
+    "writer": [
+      "Arijit Biswas",
+      "Yogesh Chandekar"
+    ],
+    "actors": [
+      "Tabu",
+      "Radhika Apte",
+      "Ayushmann Khurrana"
+    ],
+    "storyline": "He sees what he shouldn't. She sees what he couldn't. So the question is, does he see it or not?",
+    "poster": "./posters/Andhadhun.jpeg"
+  }
