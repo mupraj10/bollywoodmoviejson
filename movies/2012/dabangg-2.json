@@ -1,0 +1,37 @@
+{
+  "name": "Dabang 2",
+  "year": 2012,
+  "runtime": 120,
+  "categories": [
+    "action",
+    "comedy",
+    "crime"
+    ],
+  "release-date": "2012-12-21",
+  "director": "Arbaaz Khan",
+  "writer": [
+    "Dilip Shukla"
+  ],
+  "actors": [
+    "Salman Khan",
+    "Sonakshi Sinha",
+    "Prakash Raj",
+    "Vinod Khanna",
+    "Arbaaz Khan",
+    "Nikitin Dheer",
+    "Mahie Gill",
+    "Kareena Kapoor"
+  ],
+  "storyline": "A police inspector is transferred and promoted
+  to Kanpur. There he sabatoges a man's political
+  image by revealing his immoral activities to the
+  public, media and police force",
+  "songs": [
+      "Dabangg Reloaded",
+      "Dagabaaz Re",
+      "PandeyJee Seeti",
+      "Fevicol Se",
+      "Saanson Ne"
+  ],
+  "poster": "../posters/dabang-2.jpeg"
+}
