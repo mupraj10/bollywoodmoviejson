@@ -1,0 +1,22 @@
+{
+    "name": "Thugs of Hindostan",
+    "year": 2018,
+    "runtime": 164,
+    "categories": [
+      "action",
+      "adventure"
+    ],
+    "release-date": "2018-08-11",
+    "director": "Vijay Krishna Acharya",
+    "writer": [
+      "Vijay Krishna Acharya"
+    ],
+    "actors": [
+      "Katrina Kaif,",
+      "Aamir Khan",
+      "Amitabh Bachchan"
+    ],
+    "storyline": "In the 18th century, the British East India Company is pitted against Khudabaksh, a 'Thug of the Seas' fighting to liberate his country. The English, not knowing how to defeat him, call on a talented con artist, Firangi Mallah.",
+ 
+    "poster": "../posters/thugsofhindostan.jpg"
+  }
