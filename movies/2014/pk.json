@@ -1,0 +1,30 @@
+{
+    "name": "PK",
+    "year": 2014,
+    "runtime": 152,
+    "categories": [
+      "comedy",
+      "drama"
+    ],
+    "release-date": "2014-12-19",
+    "director": "Rajkumar Hirani",
+    "writer": [
+      "AbhijatJoshi",
+      "Rajkumar Hirani"
+    ],
+    "actors": [
+      "Aamir Khan",
+      "Anushka Sharma",
+      "Sushant Singh Rajpu",
+      "Boman Irani",
+      "Saurabh Shukla",
+      "Sanjay Dutt"
+    ],
+    "storyline": "A stranger in the city asks questions no one has asked before. Known only by his initials, the man's innocent questions and childlike curiosity take him on a journey of love, laughter and letting go.",
+    "songs": [
+        "Shantanu Moitra",
+        "Ajay-Atul",
+        "Ankit Tiwari"
+    ],
+    "poster": "../posters/PK_poster.jpg"
+ }
