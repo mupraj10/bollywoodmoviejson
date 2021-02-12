@@ -1,0 +1,39 @@
+{
+    "name": "Sultan",
+    "year": 2016,
+    "runtime": 170,
+    "categories": [
+      "action", 
+      "drama",
+      "sport"
+    ],
+    "release-date": "2016-06-07",
+    "director": "Ali Abbas Zafar",
+    "writer": [
+      "Ali Abbas Zafar"
+    ],
+    "actors": [
+      "Salman Khan",
+      "Anushka Sharma",
+      "Randeep Hooda",
+      "Marko Zaror",
+      "Ron Smoorenburg",
+      "Marrese Crump",
+      "Amit Sadh",
+      "Tyrone Woodley",
+      "Bjorn Freiberg",
+      "Brahime Achabbakhe"
+    ],
+    "storyline": "Local wrestling champion with the world at his feet as he dreams of representing India at the Olympics",
+    "songs": [
+        "Jag Ghoomeya",
+        "440 Volt",
+        "Sultan",
+        "Sachi Muchi",
+        "Bulleya",
+        "Tuk Tuk",
+        "Jag Ghoomeya (Female)",
+        "Rise of Sultan"
+    ], 
+    "poster": "./posters/sultan.jpeg"
+  }
