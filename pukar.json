@@ -1,0 +1,23 @@
+{
+    "name": "Pukar",
+    "year": 2000,
+    "runtime": 176,
+    "categories": [
+      "drama", 
+      "action",
+      "romance"
+    ],
+    "release-date": "2000-02-11",
+    "director": "Rajkumar Santoshi",
+    "writer": [
+      "Rajkumar Santoshi",
+      "Vijay Deveshwar"
+    ],
+    "actors": [
+      "Madhuri Dixit",
+      "Anil Kapoor",
+      "Om Puri"
+    ],
+    "storyline": "A decorated officer, blind to the affections of a childhood friend, falls in love with another",
+    "poster": "./posters/pukar.jpeg"
+  }
