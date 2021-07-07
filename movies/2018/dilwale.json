@@ -1,0 +1,23 @@
+{
+    "name": "Dilwale Dulhania Le Jayenge",
+    "year": 1995,
+    "runtime": 181,
+    "categories": [
+      "comedy", 
+      "drama",
+      "musical"
+    ],
+    "release-date": "1995-10-20",
+    "director": "Aditya Chopra",
+    "writer": [
+      "Aditya Chopra"
+    ],
+    "actors": [
+      "Shah Rukh Khan", 
+      "Kajol", 
+      "Amrish Puri"
+    ],
+    "storyline": "When Raj meets Simran in Europe, it isn't love at first sight but when Simran moves to India for an arranged marriage, love makes its presence felt.",
+    "songs": [],
+    "poster": "../posters/dilwale.jpeg"
+  }
