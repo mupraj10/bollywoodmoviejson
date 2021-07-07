@@ -1,0 +1,23 @@
+{
+    "name": "Badhaai Ho",
+    "year": 2018,
+    "runtime": 124,
+    "categories": [
+      "comedy", 
+      "drama"
+    ],
+    "release-date": "2018-10-19",
+    "director": "Amit Ravindernath Sharma",
+    "writer": [
+      "Akshat Ghildial",
+      "Akshat Ghildial"
+    ],
+    "actors": [
+      "Ayushmann Khurrana", 
+      "Sanya Malhotra", 
+      "Neena Gupta"
+    ],
+    "storyline": "A man faces embarrassment in the society when he finds out his mother is pregnant.",
+    "songs": [],
+    "poster": "../posters/badhaai-ho.jpeg"
+  }
